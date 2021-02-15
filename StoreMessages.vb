@@ -1,4 +1,9 @@
-﻿Module Module1
+﻿'Brayden Peck
+'RCET0265
+'Spring 2021
+'Store Messages
+'https://github.com/PeckBray/StoreMessage
+Module StoreMessages
 
     Sub Main()
         Dim userInput As String
